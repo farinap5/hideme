@@ -1,6 +1,6 @@
 # Real quick note. YOU MUST RUN THIS AS ROOT
 
-import requests,socket,struct, time, os
+import requests,socket,struct,os
 s = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_TCP)
 
 while True:

@@ -7,6 +7,16 @@ hides me in my cave
 
 # requirements
 
-```sudo apt install tor -y; sudo systemctl enable tor```
+tor service
 
-```pip3 install requests[socks]```
+# debian based
+
+```sudo apt install tor; sudo systemctl enable tor.service```
+
+# arch based
+
+```sudo pacman -S tor; sudo systemctl enable tor.service```
+
+# installing requests and requests[socks]
+
+```pip3 install requests requests[socks]```

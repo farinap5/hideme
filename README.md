@@ -1,5 +1,5 @@
-# hideme
-hides me in my cave
+<h1 align="center">hideme</h1>
+<h3 align="center">hides me in my cave</h3>
 
 # usage
 
